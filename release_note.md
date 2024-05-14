@@ -8,6 +8,10 @@
 - **스트레스 테스트 실행**: CPU와 메모리 사용률을 증가시키는 테스트를 실행하여 시스템의 성능을 측정합니다.
 - **HTML 보고서 생성**: 수집된 데이터와 테스트 결과를 HTML 형식의 보고서로 생성하여 사용자가 쉽게 결과를 확인할 수 있습니다.
 
+<div style="text-align: center">
+  <img src="images/report_screenshot.png" alt="Project Screenshot">
+</div>
+
 ## 수정 사항
 - 이 버전에는 수정 사항이 포함되어 있지 않습니다.
 
