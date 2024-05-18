@@ -12,6 +12,27 @@
   <img src="images/report_screenshot.png" alt="Project Screenshot">
 </div>
 
+## 파일별 기능
+> time_test01.py 
+
+기본 time.time() start ~ end
+
+> time_test_datetime.py
+
+datetime.now()
+
+> time_test_time.py
+
+time.time()
+
+> time_test_timeit.py
+
+ timeit.timeit()
+
+> time_test_time_perf_counter.py
+
+ timeit.perf_counter()
+
 ## 수정 사항
 - 이 버전에는 수정 사항이 포함되어 있지 않습니다.
 
